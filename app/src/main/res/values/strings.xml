@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Identity Generator</string>
+    <string name="name_label">Name</string>
+    <string name="age_label">Age Group:</string>
+    <string name="stat_label">Your Statistics</string>
+    <string name="pno_label">Phone Number:</string>
+    <string name="button_label">Generate</string>
+    <string name="city">City</string>
+    <string name="hobby">Hobby</string>
+</resources>
