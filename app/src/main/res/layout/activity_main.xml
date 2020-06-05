@@ -28,7 +28,7 @@
                     android:paddingStart="0dp"
                     android:paddingEnd="100dp"
                     android:text="@string/name_label"
-                    android:textColor="@color/colorAccent"
+                    android:textColor="#2196F3"
                     android:textSize="18sp"
                     android:textStyle="bold" />
 
@@ -55,7 +55,7 @@
                     android:paddingStart="0dp"
                     android:paddingEnd="60dp"
                     android:text="@string/age_label"
-                    android:textColor="@color/colorAccent"
+                    android:textColor="#2196F3"
                     android:textSize="18sp"
                     android:textStyle="bold" />
 
@@ -80,7 +80,7 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/stat_label"
-                    android:textColor="@color/colorAccent"
+                    android:textColor="#2196F3"
                     android:textSize="24sp"
                     android:textStyle="bold" />
 
@@ -104,7 +104,7 @@
                             android:paddingTop="8dp"
                             android:paddingEnd="50dp"
                             android:text="@string/city"
-                            android:textColor="@color/colorAccent"
+                            android:textColor="#2196F3"
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
@@ -136,7 +136,7 @@
                             android:paddingTop="8dp"
                             android:paddingEnd="50dp"
                             android:text="@string/hobby"
-                            android:textColor="@color/colorAccent"
+                            android:textColor="#2196F3"
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
@@ -166,7 +166,7 @@
                             android:paddingTop="8dp"
                             android:paddingEnd="25dp"
                             android:text="@string/pno_label"
-                            android:textColor="@color/colorAccent"
+                            android:textColor="#2196F3"
                             android:textSize="18sp"
                             android:textStyle="bold" />
 
